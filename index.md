@@ -319,12 +319,7 @@ See the contents of the _includes/custom-schedule.html file for an example of
 how one of these schedule tables is constructed.
 {% endcomment %}
 
-{% if site.pilot %}
-The lesson taught in this workshop is being piloted and a precise schedule is yet to be established. The workshop will include regular breaks. Please <a href="mailto:{{page.email}}">contact the workshop organisers</a> if you would like more information about the planned schedule.
-{% endif %}
-
 <hr/>
-
 
 {% comment %}
 SETUP
@@ -341,7 +336,7 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <p>
-  To participate in this workshop, you will need an up-to-date web browser.
+  To participate in this workshop, you will need an up-to-date web browser and access to the videoconferencing client Zoom. If you have the ability, the instructions for installing Zoom can be found below. If you do not have the ability to install the Zoom client, you can access the workshop using the Zoom web browser option.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
