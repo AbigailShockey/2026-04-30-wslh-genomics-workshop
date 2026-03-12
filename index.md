@@ -361,14 +361,3 @@ to include the relevant installation instructions.
 {% endcomment %}
 
 {% include install_instructions/videoconferencing.html %}
-
-{% comment %}
-These are the installation instructions for the tools used
-during the workshop.
-{% endcomment %}
-
-{% include dc/setup.html %}
-
-Please check the "Setup" page of
-<a href="{{site.incubator_lesson_site}}">the lesson homepage</a> for instructions to follow
-to obtain the software and data you will need to follow the lesson.
