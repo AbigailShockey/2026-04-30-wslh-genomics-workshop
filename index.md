@@ -36,12 +36,6 @@ href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data
 <a href="{{site.lc_site}}">Library Carpentry</a> communities of Instructors, Trainers, Maintainers,
 helpers, and supporters who share a mission to teach foundational computational and data science
 skills to researchers.
-<p align="center">
-  <em>
-  <strong>Want to learn more and stay engaged with The Carpentries?</strong> Carpentries Clippings is The Carpentries' biweekly newsletter, where we share community news, community job postings, and more.
-Sign up to receive future editions and read our full archive: <a href="https://carpentries.org/newsletter/">https://carpentries.org/newsletter/</a>
-  </em>
-</p>
 
 {% include dc/intro.html %}
 
@@ -236,14 +230,6 @@ CODE OF CONDUCT
 Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/policies/coc/">Code of Conduct</a>. This document also outlines how to report an incident if needed.
 </p>
 
-<p class="text-center">
-  <a href="https://goo.gl/forms/KoUfO53Za3apOuOK2">
-    <button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
-  </a>
-</p>
-<hr/>
-
-
 {% comment %}
 Collaborative Notes
 
@@ -355,17 +341,7 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <p>
-  To participate in a
-  {% if site.carpentry == "swc" %}
-  Software Carpentry
-  {% elsif site.carpentry == "dc" %}
-  Data Carpentry
-  {% elsif site.carpentry == "lc" %}
-  Library Carpentry
-  {% endif %}
-  workshop,
-  you will need access to software as described below.
-  In addition, you will need an up-to-date web browser.
+  To participate in this workshop, you will need an up-to-date web browser.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
@@ -392,13 +368,8 @@ These are the installation instructions for the tools used
 during the workshop.
 {% endcomment %}
 
-{% if site.carpentry == "swc" %}
-{% include swc/setup.html %}
-{% elsif site.carpentry == "dc" %}
 {% include dc/setup.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/setup.html %}
-{% elsif site.carpentry == "incubator" %}
+
 Please check the "Setup" page of
 <a href="{{site.incubator_lesson_site}}">the lesson homepage</a> for instructions to follow
 to obtain the software and data you will need to follow the lesson.
