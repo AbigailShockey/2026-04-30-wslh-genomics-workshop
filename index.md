@@ -46,7 +46,15 @@ Explain who your audience is.  (In particular, tell readers if the
 workshop is only open to people from a particular institution.
 {% endcomment %}
 
-{% include dc/who.html %}
+<p id="who">
+  <strong>Who:</strong>
+  This workshop is for individuals with little to no prior experience with the command-line, bioinformatics analyses, or cloud computing. 
+  However, learners are expected to have some familiarity with biological concepts, including genome sequencing and the the concept of genomic variation.
+</p>
+<p align="center">
+  <strong>You don't need to have any previous knowledge of the tools
+  that will be presented at the workshop.</strong>
+</p>
 
 {% comment %}
 LOCATION
@@ -131,14 +139,6 @@ special instructions.
   <strong>Accessibility:</strong>
   We are committed to making this workshop
   accessible to everybody. 
-{% if online == "false" %}
-  The workshop organizers have checked that:
-<p>
-  <ul>
-    <li>The room is wheelchair / scooter accessible.</li>
-    <li>Accessible restrooms are available.</li>
-  </ul>
-{% endif %}
 </p>
 <p>We are dedicated to providing a positive and accessible learning environment for all. 
   We do not require participants to provide documentation of disabilities or disclose any unnecessary personal information. 
