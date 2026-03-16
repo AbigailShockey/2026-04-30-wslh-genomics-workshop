@@ -31,26 +31,7 @@ the pitch.
 {% endcomment %}
 
 <p>
-<strong><a href="https://carpentries.org">The Carpentries</a></strong> project comprises the <a
-href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data Carpentry</a>, and
-<a href="{{site.lc_site}}">Library Carpentry</a> communities of Instructors, Trainers, Maintainers,
-helpers, and supporters who share a mission to teach foundational computational and data science
-skills to researchers.
-
-<p>
-  <a href="{{site.dc_site}}">Data Carpentry</a> develops and teaches workshops on the fundamental data skills needed to conduct
-  research. Its target audience is researchers who have little to no prior computational experience,
-  and its lessons are domain specific, building on learners' existing knowledge to enable them to quickly
-  apply skills learned to their own research.
-  Participants will be encouraged to help one another
-  and to apply what they have learned to their own research problems.
-</p>
-<p align="center">
-  <em>
-    For more information on what we teach and why,
-    please see our paper
-    "<a href="https://doi.org/10.1371/journal.pcbi.1005510">Good Enough Practices for Scientific Computing</a>".
-  </em>
+This workshop teaches the basics of bioinformatics analysis including: use of the command-line and command-line bioinformatics tools to analyze next-generation sequencing data, and connecting to and using cloud computing environments. This workshop will be virtual and instructors will use participatory live coding. Instructors will teach lesson material by typing code, and training participants will code alongside instructors. Each lesson will include practical exercises that allow participants to test their knowledge as they learn.
 </p>
 
 {% comment %}
