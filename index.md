@@ -37,7 +37,21 @@ href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data
 helpers, and supporters who share a mission to teach foundational computational and data science
 skills to researchers.
 
-{% include dc/intro.html %}
+<p>
+  <a href="{{site.dc_site}}">Data Carpentry</a> develops and teaches workshops on the fundamental data skills needed to conduct
+  research. Its target audience is researchers who have little to no prior computational experience,
+  and its lessons are domain specific, building on learners' existing knowledge to enable them to quickly
+  apply skills learned to their own research.
+  Participants will be encouraged to help one another
+  and to apply what they have learned to their own research problems.
+</p>
+<p align="center">
+  <em>
+    For more information on what we teach and why,
+    please see our paper
+    "<a href="https://doi.org/10.1371/journal.pcbi.1005510">Good Enough Practices for Scientific Computing</a>".
+  </em>
+</p>
 
 {% comment %}
 AUDIENCE
