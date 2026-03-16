@@ -1,4 +1,4 @@
----
+ ---
 layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
@@ -60,7 +60,6 @@ can use https://www.latlong.net/ to find the lat/long of an
 address.
 {% endcomment %}
 
-</p>
 <p id="where">
   <strong>Where:</strong> This training will take place online.
   The instructors will provide you with the information you will need to connect to this meeting.
@@ -152,11 +151,13 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
+{% comment %}
 <p id="roles">
   <strong>Roles:</strong>
   To learn more about the roles at the workshop (who will be doing what),
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
+{% endcomment %}
 
 {% comment %}
 WHO CAN ATTEND?
@@ -180,15 +181,6 @@ Edit the text to match who can attend the workshop. For instance:
 {% endcomment %}
 
 <hr/>
-
-{% comment%}
-CODE OF CONDUCT
-{% endcomment %}
-<h2 id="code-of-conduct">Code of Conduct</h2>
-
-<p>
-Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/policies/coc/">Code of Conduct</a>. This document also outlines how to report an incident if needed.
-</p>
 
 {% comment %}
 Collaborative Notes
@@ -306,3 +298,12 @@ to include the relevant installation instructions.
 {% endcomment %}
 
 {% include install_instructions/videoconferencing.html %}
+
+{% comment%}
+CODE OF CONDUCT
+{% endcomment %}
+<h2 id="code-of-conduct">Code of Conduct</h2>
+
+<p>
+Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/policies/coc/">Code of Conduct</a>. This document also outlines how to report an incident if needed.
+</p>
