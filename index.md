@@ -279,7 +279,7 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <p>
-  To participate in this workshop, you will need an up-to-date web browser and access to the videoconferencing client Zoom. If you have the ability, the instructions for installing Zoom can be found below. If you do not have the ability to install the Zoom client, you can access the workshop using Zoom on your web browser.
+  To participate in this workshop, you will need an up-to-date web browser and access to the Zoom videoconferencing software. If you have the ability to install Zoom on your PC, the instructions for installing it can be found below. If you do not have the ability to install Zoom on your PC, you can access the workshop using Zoom on your web browser.
 </p>
 
 {% comment %}
