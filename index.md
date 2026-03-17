@@ -31,7 +31,7 @@ the pitch.
 {% endcomment %}
 
 <p>
-This workshop teaches the basics of bioinformatics analysis including: use of the command-line and command-line bioinformatics tools to analyze next-generation sequencing data, and connecting to and using cloud computing environments. This workshop will be virtual and instructors will use participatory live coding. Instructors will teach lesson material by typing code, and training participants will code alongside instructors. Each lesson will include practical exercises that allow participants to test their knowledge as they learn.
+This workshop teaches the basics of bioinformatics analysis including: use of the command-line and command-line bioinformatics tools to analyze next-generation sequencing data, and connecting to and using cloud computing environments. This workshop will be virtual and instructors will use participatory live coding. Instructors will teach lesson material by typing code, and workshop participants will code alongside instructors. Each lesson will include practical exercises that allow participants to test their knowledge as they learn.
 </p>
 
 {% comment %}
@@ -44,7 +44,7 @@ workshop is only open to people from a particular institution.
 <p id="who">
   <strong>Who:</strong>
   This workshop is for individuals with little to no prior experience with the command-line, bioinformatics analyses, or cloud computing. 
-  However, learners are expected to have some familiarity with biological concepts, including genome sequencing and the the concept of genomic variation.
+  However, participants are expected to have some familiarity with biological concepts, including genome sequencing and the the concept of genomic variation.
 </p>
 <p align="center">
   <strong>You don't need to have any previous knowledge of the tools
@@ -341,5 +341,5 @@ CODE OF CONDUCT
 <h2 id="code-of-conduct">Code of Conduct</h2>
 
 <p>
-Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/policies/coc/">Code of Conduct</a>. This document also outlines how to report an incident if needed.
+Workshop instructors, helpers, and participants are expected to follow are required to conform to the <a href="https://abigailshockey.github.io/2026-04-30-wslh-genomics-workshop/CODE_OF_CONDUCT.html">Code of Conduct</a>.
 </p>
