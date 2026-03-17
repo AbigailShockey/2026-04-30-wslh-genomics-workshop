@@ -30,8 +30,9 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
-<p>
-This workshop teaches the basics of bioinformatics analysis including: use of the command-line and command-line bioinformatics tools to analyze next-generation sequencing data, and connecting to and using cloud computing environments. This workshop will be virtual and instructors will use participatory live coding. Instructors will teach lesson material by typing code, and workshop participants will code alongside instructors. Each lesson will include practical exercises that allow participants to test their knowledge as they learn.
+<p id="about">
+  <strong>About:</strong>
+  This workshop teaches the basics of bioinformatics analysis including: use of the command-line and command-line bioinformatics tools to analyze next-generation    sequencing data, and connecting to and using cloud computing environments. This workshop will be virtual and instructors will use participatory live coding.       Instructors will teach lesson material by typing code, and workshop participants will code alongside instructors. Each lesson will include practical exercises     that allow participants to test their knowledge as they learn.
 </p>
 
 {% comment %}
