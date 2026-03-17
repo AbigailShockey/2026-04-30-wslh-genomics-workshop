@@ -3,7 +3,7 @@ layout: page
 title: "Workshop Code of Conduct"
 ---
 
-The following describes the code of conduct that workshop instructors, helpers, and participants are expected to follow. As this workshop is based on lesson material developed by © [The Carpentries](https://carpentries.org), this code of conduct is based of The Carpentries [Code of Conduct](https://docs.carpentries.org/policies/coc/).
+The following describes the code of conduct that workshop instructors, helpers, and participants are expected to follow. As this workshop is based on lesson material developed by © [The Carpentries](https://carpentries.org), this code of conduct is based off The Carpentries [Code of Conduct](https://docs.carpentries.org/policies/coc/).
 
 The organizers of this workshop are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. As such, we do not tolerate behaviour that is disrespectful to our teachers or learners or that excludes, intimidates, or causes discomfort to others. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to, gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, and experience level.
 
