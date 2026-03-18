@@ -14,6 +14,7 @@ All participants at this workshop are expected to show respect and courtesy to o
 - Focus on what is best for the community
 - Show courtesy and respect towards other community members
 Note: See the four social rules for further recommendations.
+
 ### Unacceptable behaviour
 Examples of unacceptable behaviour by participants include:
 - Written or verbal comments which have the effect of excluding people on the basis of membership of any specific group
@@ -29,5 +30,6 @@ Examples of unacceptable behaviour by participants include:
 - Incitement to violence, suicide, or self-harm
 - Continuing to initiate interaction (including photography or recording) with someone after being asked to stop
 - Publication of private communication without consent
+
 ### Consequences of Unacceptable behaviour
 Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. If a participant engages in behaviour that violates this code of conduct, the organizers may warn the offender or ask them to leave the event.
