@@ -104,7 +104,7 @@ special instructions.
 <p>We are dedicated to providing a positive and accessible learning environment for all. 
   We do not require participants to provide documentation of disabilities or disclose any unnecessary personal information. 
   However, we do want to help create an inclusive, accessible experience for all participants. 
-  We encourage you to share any information that would be helpful to make your Carpentries experience accessible.
+  We encourage you to share any information that would be helpful to make your workshop experience accessible.
   To request an accommodation for this workshop [...].
 </p>
 <p>
