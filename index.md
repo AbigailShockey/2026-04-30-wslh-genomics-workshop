@@ -342,5 +342,5 @@ CODE OF CONDUCT
 <h2 id="code-of-conduct">Code of Conduct</h2>
 
 <p>
-Workshop instructors, helpers, and participants are expected to follow are required to conform to the <a href="https://abigailshockey.github.io/2026-04-30-wslh-genomics-workshop/CODE_OF_CONDUCT.html">Code of Conduct</a>.
+Workshop instructors, helpers, and participants are expected to follow the <a href="https://abigailshockey.github.io/2026-04-30-wslh-genomics-workshop/CODE_OF_CONDUCT.html">Code of Conduct</a>.
 </p>
