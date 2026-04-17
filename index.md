@@ -135,7 +135,7 @@ Display the contact email address set in the configuration file.
 <p id="contact">
   <strong>Contact:</strong>
   Please email
-  first@example.org
+  abigail.shockey@slh.wisc.edu
   for more information.
 </p>
 
